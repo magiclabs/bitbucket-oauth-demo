@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + Bitbucket</h1>
+      <h1>Magic + Bitbucket</h1>
       <button onClick={handleSocialLogin}>
         <FaBitbucket size={"2.5rem"} />
         Log in with Bitbucket
